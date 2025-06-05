@@ -245,13 +245,7 @@ def chatBot(query):
     
     
     
-    # chatbot = hugchat(token="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")
-    # id = chatbot.new_conversation()
-    # chatbot.change_conversation(id)
-    # response =  chatbot.chat(user_input)
-    # print(response)
-    # speak(response)
-    # return response
+   
 
 
 def hand_writting(query):
